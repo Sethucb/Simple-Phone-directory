@@ -1,0 +1,9 @@
+
+Include the contacts along with phone numbers in "Input.txt" file.
+
+The program has functions for the following
+	1. Inserting new contacts
+	2. Sorting contacts based on first name,last name and mobile number using Quick sort.
+	3. Search for a contact using Binary Search.
+	4. Delete a contact based on the contact name.
+
